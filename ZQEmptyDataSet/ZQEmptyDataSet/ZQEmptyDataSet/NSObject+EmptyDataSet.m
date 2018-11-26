@@ -51,7 +51,7 @@ static char *ZBtnImgNameKey = "ZBtnImgNameKey";
     if (self.noDataImgName) {
         return [UIImage imageNamed:self.noDataImgName];
     }
-    return [UIImage imageNamed:@"NoData"];
+    return [UIImage imageNamed:@"pn_icon_noData"];
 }
 
 - (NSAttributedString *)titleForEmptyDataSet:(UIScrollView *)scrollView

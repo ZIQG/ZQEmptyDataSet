@@ -57,20 +57,20 @@
             break;
             
         case EmptyTypeCustom1: {
-            self.noDataImgName = @"NoOrderData";
+            self.noDataImgName = @"pn_icon_noData";
             self.noDataTitle = @"亲，您没有订单任何订单消息哦！";
         }
             break;
             
         case EmptyTypeCustom2: {
-            self.noDataImgName = @"NoOrderData";
+            self.noDataImgName = @"pn_icon_noData";
             self.noDataTitle = @"亲，您没有订单任何订单消息哦！";
             self.noDataDetailTitle = @"您购买的宝贝将会呈现在这里";
         }
             break;
             
         case EmptyTypeCustom3: {
-            self.noDataImgName = @"NoOrderData";
+            self.noDataImgName = @"pn_icon_noData";
             self.noDataTitle = @"亲，您没有订单任何订单消息哦！";
             self.noDataDetailTitle = @"您购买的宝贝将会呈现在这里";
             self.btnTitle = @"马上逛逛";
